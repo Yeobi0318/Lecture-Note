@@ -1,0 +1,22 @@
+# 실행 환경
+.venv/
+__pycache__/
+*.pyc
+
+# 사용자별 설정·데이터 (강의 내용이 들어 있으므로 올리지 않음)
+settings.json
+transcript.srt
+reference_draft.txt
+cer_report.html
+*_notes/
+*.mp4
+*.m4a
+*.wav
+_check.wav
+
+# 배포용 압축본
+*.zip
+
+# 이 PC 전용 메모 (개인 정보)
+CLAUDE.local.md
+dist/
